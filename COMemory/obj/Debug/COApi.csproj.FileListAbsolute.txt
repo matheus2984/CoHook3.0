@@ -1,0 +1,5 @@
+C:\Users\Ademario\Desktop\COProxy\COMemory\bin\Debug\COAPI.dll
+C:\Users\Ademario\Desktop\COProxy\COMemory\bin\Debug\COAPI.pdb
+C:\Users\Ademario\Desktop\COProxy\COMemory\obj\Debug\COAPI.dll
+C:\Users\Ademario\Desktop\COProxy\COMemory\obj\Debug\COAPI.pdb
+C:\Users\Ademario\Desktop\COProxy\COMemory\obj\Debug\COApi.csprojResolveAssemblyReference.cache

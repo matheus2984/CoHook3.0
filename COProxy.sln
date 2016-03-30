@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoHook3.0", "CoHook\CoHook3.0.csproj", "{E1261D5B-7670-40A8-882F-247E3BFC4914}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{88A297A4-196F-41E6-93CF-930C77310653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COAPI", "COMemory\COAPI.csproj", "{FC5CE9C7-C519-4D8E-9CFC-8F6F5B362B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1261D5B-7670-40A8-882F-247E3BFC4914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1261D5B-7670-40A8-882F-247E3BFC4914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1261D5B-7670-40A8-882F-247E3BFC4914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1261D5B-7670-40A8-882F-247E3BFC4914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5CE9C7-C519-4D8E-9CFC-8F6F5B362B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5CE9C7-C519-4D8E-9CFC-8F6F5B362B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5CE9C7-C519-4D8E-9CFC-8F6F5B362B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5CE9C7-C519-4D8E-9CFC-8F6F5B362B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FC5CE9C7-C519-4D8E-9CFC-8F6F5B362B56} = {88A297A4-196F-41E6-93CF-930C77310653}
+	EndGlobalSection
+EndGlobal

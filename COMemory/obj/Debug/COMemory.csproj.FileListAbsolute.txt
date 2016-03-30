@@ -1,0 +1,5 @@
+C:\Users\Ademario\Desktop\COProxy\COMemory\bin\Debug\COMemory.dll
+C:\Users\Ademario\Desktop\COProxy\COMemory\bin\Debug\COMemory.pdb
+C:\Users\Ademario\Desktop\COProxy\COMemory\obj\Debug\COMemory.csprojResolveAssemblyReference.cache
+C:\Users\Ademario\Desktop\COProxy\COMemory\obj\Debug\COMemory.dll
+C:\Users\Ademario\Desktop\COProxy\COMemory\obj\Debug\COMemory.pdb
